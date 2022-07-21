@@ -67,7 +67,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5xo6jtcszusgd7hzmknyz7cm8&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
-<h2 align="left">Languages & Tools</h2>
+<h2 align="left">Languages & Tools: </h2>
 <p align="left">
     <a href="#" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
