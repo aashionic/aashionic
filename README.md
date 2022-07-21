@@ -64,7 +64,7 @@
 <br>
 <h2>Right Now Vibing:</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5xo6jtcszusgd7hzmknyz7cm8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5xo6jtcszusgd7hzmknyz7cm8&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 <br>
 
 <h2 align="left">Languages & Tools</h2>
