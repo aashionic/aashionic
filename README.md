@@ -54,7 +54,7 @@
 
 - 💬 Ask me about **WEB**
 
-- 📫 How to reach me **ping@aashishadhikari.info.np**
+- 📫 How to reach me **mail@aashionic.dev**
 
 - ⚡ Fun fact **I am Funny**
 
