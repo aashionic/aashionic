@@ -8,22 +8,22 @@
 </div>
 
 <div align="center" id="profile">
-    <a href="https://facebook.com/aaxi5h">
+    <a href="https://facebook.com/aashionic">
         <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white"
             alt="Facebook Badge" />
     </a>
-    <a href="https://instagram.com/aaxi5h">
+    <a href="https://instagram.com/aashionic">
         <img src="https://img.shields.io/badge/Instagram-critical?style=flat&logo=instagram&logoColor=white"
             alt="Instagram Badge" />
     </a>
-    <a href="https://twitter.com/aaxi5h">
+    <a href="https://twitter.com/aashionic">
         <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white"
             alt="Twitter Badge" />
     </a>
 </div>
 
 <div align="center" id="profile">
-    <a href="https://linkedin.com/in/aaxi5h">
+    <a href="https://linkedin.com/in/aashionic">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"
             alt="LinkedIn Badge" />
     </a>
@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/Reddit-critical?style=flat&logo=reddit&logoColor=white"
             alt="Reddit Badge" />
     </a>
-    <a href="https://t.me/aaxi5h">
+    <a href="https://t.me/aashionic">
         <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white"
             alt="Telegram Badge" />
     </a>
@@ -42,7 +42,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaxi5h&label=Profile%20views&color=0eb48b&style=flat"
-        alt="aaxi5h" /> </p>
+        alt="aashionic" /> </p>
 
 
 <h2> About Me:</h2>
