@@ -41,7 +41,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaxi5h&label=Profile%20views&color=0eb48b&style=flat"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashionic&label=Profile%20views&color=0eb48b&style=flat"
         alt="aashionic" /> </p>
 
 
@@ -63,7 +63,9 @@
 
 <br>
 <h2>Right Now Vibing:</h2>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317oei7lq5arwp4civox6qmppzsa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317oei7lq5arwp4civox6qmppzsa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)
+
 <br>
 
 <h2 align="left">Languages & Tools: </h2>
@@ -166,14 +168,14 @@
     </> Coding With: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaxi5h&theme=buefy&border_radius=10" /></a>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashionic&theme=buefy&border_radius=10" /></a>
 <br>
 <br>
 <h2> Statistics: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=aaxi5h&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10"
+        src="https://github-readme-stats.vercel.app/api?username=aashionic&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10"
         alt="Aashish's GitHub Stats" /></a>
 <br>
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aaxi5h&&theme=xcode)](https://github.com/aaxi5h)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aashionic&&theme=xcode)](https://github.com/aashionic
