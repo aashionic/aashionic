@@ -178,4 +178,3 @@
 <br>
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aashionic&&theme=xcode)](https://github.com/aashionic
