@@ -2,8 +2,8 @@
 
 
 <div id="header" align="center">
-    <img src="head.gif" alt="" width="200">
-    <h1 align="center">Hi 👋, I'm Aashish Adhikari</h1>
+    <p><img src="head.gif" alt="" width="250"></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=0F3546&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Adhikari" alt="Typing SVG" /></a>
     <h3 align="center">A passionate  developer from Nepal, who is interested in all the things.</h3>
 </div>
 
@@ -166,15 +166,16 @@
 
 <h2>
     </> Coding With: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/aashionic/github-readme-stats">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashionic&theme=buefy&border_radius=10" /></a>
+        src="https://aashionic-github-stats.vercel.app/api/top-langs/?username=aashionic&theme=buefy&count_private=true&show_icons=true&border_radius=10" /></a>
 <br>
 <br>
 <h2> Statistics: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=aashionic&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10"
-        alt="Aashish's GitHub Stats" /></a>
+<a href="https://github.com/aashionic/github-readme-stats"><img align="center"
+        src="https://aashionic-github-stats.vercel.app/api?username=aashionic&show_icons=true&include_all_commits=true&theme=buefy&count_private=true&hide=issues&border_radius=10" /></a>
 <br>
-
+<br>
+<h2> Streaks Count: </h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashionic&theme=default&hide_border=false&border_radius=5.1&locale=en&date_format=&mode=daily" alt="aashionic" /></p>
 
