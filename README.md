@@ -42,7 +42,7 @@
 
 - 🌱 I’m currently learning **Everything Possible**
 
-- 📫 How to reach me **mail@aashionic.dev**
+- 📫 How to reach me **mail@aashishadhikari.info.np**
 
 <br>
 <h2>Right Now Vibing:</h2>
